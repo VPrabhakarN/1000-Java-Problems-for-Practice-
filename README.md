@@ -5,5 +5,7 @@
   <li>Array</li>
    <li>Basic</li>
     <li>Pattern</li>
-  <li>And more</li>
+    <li>Conversion</li>
+    <li>Type Casting</li>
+    <li>And more</li>
 </h2>
