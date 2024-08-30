@@ -1,7 +1,7 @@
 // Q.99) Create a base class Appliance with a method turnOn(). Derive a class WashingMachine that overrides the turnOn() method. Demonstrate the use of the super keyword to call the base class method.
 
 
-public class P99_Inheritance_6 {
+public class Q99_Inheritance_6 {
     public static void main(String [] args){
         // creating an object of the derived class
         WashingMachine w1 = new WashingMachine();
