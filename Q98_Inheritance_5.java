@@ -1,6 +1,6 @@
 // Q.98) Implement a Java program that uses hierarchical inheritance. Create a base class Shape and two derived classes Circle and Rectangle. Add a method draw() in the base class and override it in both derived classes.
 
-public class P98_Inheritance_5 {
+public class Q98_Inheritance_5 {
     public static void main(String [] args){
         // creating an object of child 1 
         Circle c1 = new Circle();
